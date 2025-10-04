@@ -1,2 +1,2 @@
 # prueba-github
-este repositorio es una prueba 
+Este es un proyecto de prueba creado mientras aprendo a usar GitHub.
